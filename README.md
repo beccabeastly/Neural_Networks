@@ -30,7 +30,7 @@ Install and Trouble shoot: [Keras](https://keras.io/about/)
 `python -c "import tensorflow as tf;print(tf.keras.__version__)"`
 
 
-![libraries_to_use]()
+![libraries_to_use](https://github.com/beccabeastly/Neural_Networks/blob/main/Libraries_challenge_13.png)
 
 ---
 # add license
