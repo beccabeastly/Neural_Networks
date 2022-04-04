@@ -38,7 +38,8 @@ Educational purposes
 ---
 
 # Code Footnotes
-
+Preview of data that was processed:
+![Data_Frame](https://github.com/beccabeastly/Neural_Networks/blob/main/data_preview.png)
 
 
 # Contributors
